@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Cholo",
+    "edad": "10 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "soplo"
+  },
+  {
+    "nombre": "Sasha",
+    "edad": "6 años",
+    "animal": "coneja",
+    "color": "café",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Lucas",
+    "edad": "4 años",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "espalda"
+  },
+  {
+    "nombre": "Nicole",
+    "edad": "11 años",
+    "animal": "gata",
+    "color": "negro",
+    "enfermedad": "sueño"
+  }
+]
